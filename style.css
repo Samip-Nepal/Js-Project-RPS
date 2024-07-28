@@ -32,6 +32,7 @@ filter: brightness(95%);
     margin-top:4rem ;
 gap: 2rem;
 }
+
 .actual-play:hover{
     background-color: #264653;
     border-radius: 50%;
